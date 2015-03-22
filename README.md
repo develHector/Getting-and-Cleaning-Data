@@ -10,7 +10,7 @@ Before starting: It is assumed that you already downloaded the data onto your cu
 Instructions:
 * Fork a copy of "run_analysis.R" code located on the home page of this repo to your machine.
 * Get into R and source that code file.
-* Execute the function "run" with an optional parameter pointing to where "UCI HAR Dataset" is located.
+* Execute the function "run" with an optional parameter pointing to where "UCI HAR Dataset" is located, for example, run("data") in my case.
 * Results will be returned from that function, you can either display them, store them to a dataframe, etc...
 * Column names corresponds with those of the original datasets, just without the parentheses
 
